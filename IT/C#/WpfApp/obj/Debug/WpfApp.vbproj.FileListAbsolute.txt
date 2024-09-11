@@ -1,0 +1,17 @@
+H:\12.o\IT\C#\WpfApp\bin\Debug\WpfApp.exe.config
+H:\12.o\IT\C#\WpfApp\bin\Debug\WpfApp.exe
+H:\12.o\IT\C#\WpfApp\bin\Debug\WpfApp.pdb
+H:\12.o\IT\C#\WpfApp\bin\Debug\WpfApp.xml
+H:\12.o\IT\C#\WpfApp\obj\Debug\WpfApp.vbproj.AssemblyReference.cache
+H:\12.o\IT\C#\WpfApp\obj\Debug\MainWindow.g.vb
+H:\12.o\IT\C#\WpfApp\obj\Debug\Application.g.vb
+H:\12.o\IT\C#\WpfApp\obj\Debug\WpfApp_MarkupCompile.cache
+H:\12.o\IT\C#\WpfApp\obj\Debug\WpfApp_MarkupCompile.lref
+H:\12.o\IT\C#\WpfApp\obj\Debug\MainWindow.baml
+H:\12.o\IT\C#\WpfApp\obj\Debug\WpfApp.g.resources
+H:\12.o\IT\C#\WpfApp\obj\Debug\WpfApp.Resources.resources
+H:\12.o\IT\C#\WpfApp\obj\Debug\WpfApp.vbproj.GenerateResource.cache
+H:\12.o\IT\C#\WpfApp\obj\Debug\WpfApp.vbproj.CoreCompileInputs.cache
+H:\12.o\IT\C#\WpfApp\obj\Debug\WpfApp.exe
+H:\12.o\IT\C#\WpfApp\obj\Debug\WpfApp.xml
+H:\12.o\IT\C#\WpfApp\obj\Debug\WpfApp.pdb
