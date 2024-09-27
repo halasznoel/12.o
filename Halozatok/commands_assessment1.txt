@@ -1,0 +1,25 @@
+
+vlan 40
+name FAC
+int vlan 40
+ip address 192.168.40.1 255.255.255.0
+desc sajt
+exit
+vlan 50
+name FAB1
+int vlan 50
+ip address 192.168.50.1 255.255.255.0
+desc sajt
+exit
+vlan 60
+name FAB2
+int vlan 60
+ip address 192.168.60.1 255.255.255.0
+desc sajt
+exit
+vlan 99
+name ADMIN
+int vlan 99
+ip address 192.168.99.16 255.255.255.240
+desc sajt
+exit
