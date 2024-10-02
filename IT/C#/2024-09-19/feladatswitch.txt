@@ -1,0 +1,6 @@
+Olvasson be egy számo 1-7 között.
+Ha 1 írja ki, hogy hétő, ... , 7 vasárnap.
+Minden más számra azt írja ki, hogy nem 1-7 közötti számot adott meg.
+
+switch szerkezettel kellene megoldani
+van egy kép hozzá

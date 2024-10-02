@@ -1,0 +1,23 @@
+A BMI kiszámításának képlete
+A BMI kiszámításához a személy súlyát elosztjuk a magassága négyzetével.
+
+BMI = m/h²
+
+m = testsúly kilogrammban h = testmagasság méterben
+
+< 18,5	Alulsúlyos
+18,5-24,99	Optimális testsúly
+25-29,99	Túlsúlyos
+30-34,99	Első fokú elhízás
+35-39,99	Másodfokú elhízás
+> 40	Harmadfokú elhízás
+
+
+
+
+
+
+
+
+
+Olvassuk be a magasságot cm-ben, a súlyt kg-ban, majd számítsuk ki és írjuk ki a kategóriát.

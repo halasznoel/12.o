@@ -1,0 +1,7 @@
+m:\jam\2024\12E\infotech\2024-09-12\feladat\feladat\bin\Debug\feladat.exe.config
+m:\jam\2024\12E\infotech\2024-09-12\feladat\feladat\bin\Debug\feladat.exe
+m:\jam\2024\12E\infotech\2024-09-12\feladat\feladat\bin\Debug\feladat.pdb
+m:\jam\2024\12E\infotech\2024-09-12\feladat\feladat\obj\Debug\feladat.csproj.AssemblyReference.cache
+m:\jam\2024\12E\infotech\2024-09-12\feladat\feladat\obj\Debug\feladat.csproj.CoreCompileInputs.cache
+m:\jam\2024\12E\infotech\2024-09-12\feladat\feladat\obj\Debug\feladat.exe
+m:\jam\2024\12E\infotech\2024-09-12\feladat\feladat\obj\Debug\feladat.pdb

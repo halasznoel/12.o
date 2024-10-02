@@ -1,0 +1,2 @@
+1. Olvasson be 5 számot és írja ki, hogy mennyi az összegük és az átlaguk.
+2. Olvasson be 5 számot és határozza meg, hogy melyik volt a legkisebb. (egy típusban tárolható legkisebb értéket a típus.MinValue parancs adja meg, a legnagyobbat pedig a típus.MaxValue parancs. pl. int.MinValue, long.MaxValue)

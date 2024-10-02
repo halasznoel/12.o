@@ -1,0 +1,7 @@
+H:\12.o\IT\C#\2024-10-02\feladat\bin\Debug\feladat.exe.config
+H:\12.o\IT\C#\2024-10-02\feladat\bin\Debug\feladat.exe
+H:\12.o\IT\C#\2024-10-02\feladat\bin\Debug\feladat.pdb
+H:\12.o\IT\C#\2024-10-02\feladat\obj\Debug\feladat.csproj.AssemblyReference.cache
+H:\12.o\IT\C#\2024-10-02\feladat\obj\Debug\feladat.csproj.CoreCompileInputs.cache
+H:\12.o\IT\C#\2024-10-02\feladat\obj\Debug\feladat.exe
+H:\12.o\IT\C#\2024-10-02\feladat\obj\Debug\feladat.pdb
