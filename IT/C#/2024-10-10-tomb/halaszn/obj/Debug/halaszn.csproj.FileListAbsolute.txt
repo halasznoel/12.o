@@ -1,0 +1,7 @@
+H:\12.o\IT\C#\2024-10-10-tomb\halaszn\bin\Debug\halaszn.exe.config
+H:\12.o\IT\C#\2024-10-10-tomb\halaszn\bin\Debug\halaszn.exe
+H:\12.o\IT\C#\2024-10-10-tomb\halaszn\bin\Debug\halaszn.pdb
+H:\12.o\IT\C#\2024-10-10-tomb\halaszn\obj\Debug\halaszn.csproj.AssemblyReference.cache
+H:\12.o\IT\C#\2024-10-10-tomb\halaszn\obj\Debug\halaszn.csproj.CoreCompileInputs.cache
+H:\12.o\IT\C#\2024-10-10-tomb\halaszn\obj\Debug\halaszn.exe
+H:\12.o\IT\C#\2024-10-10-tomb\halaszn\obj\Debug\halaszn.pdb

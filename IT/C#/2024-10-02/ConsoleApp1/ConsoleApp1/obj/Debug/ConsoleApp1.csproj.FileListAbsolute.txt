@@ -1,0 +1,7 @@
+M:\jam\2024\12E\infotech\2024-10-02\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+M:\jam\2024\12E\infotech\2024-10-02\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+M:\jam\2024\12E\infotech\2024-10-02\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+M:\jam\2024\12E\infotech\2024-10-02\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.AssemblyReference.cache
+M:\jam\2024\12E\infotech\2024-10-02\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+M:\jam\2024\12E\infotech\2024-10-02\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+M:\jam\2024\12E\infotech\2024-10-02\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
