@@ -1,0 +1,6 @@
+H:\12.o\IT\C#\2024-10-16\struktgyak\bin\Debug\struktgyak.exe.config
+H:\12.o\IT\C#\2024-10-16\struktgyak\bin\Debug\struktgyak.exe
+H:\12.o\IT\C#\2024-10-16\struktgyak\bin\Debug\struktgyak.pdb
+H:\12.o\IT\C#\2024-10-16\struktgyak\obj\Debug\struktgyak.csproj.CoreCompileInputs.cache
+H:\12.o\IT\C#\2024-10-16\struktgyak\obj\Debug\struktgyak.exe
+H:\12.o\IT\C#\2024-10-16\struktgyak\obj\Debug\struktgyak.pdb
