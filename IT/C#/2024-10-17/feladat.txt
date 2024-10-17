@@ -1,0 +1,3 @@
+Szeretnénk autók adatait eltárolni egy listában.
+Egy autóhoz tartozó adatok: rendszám, típus, szín
+A program kérje be négy autó adatait (ciklussal) és tárolja el egy listában. A lista struktúrákat tároljon.

@@ -1,0 +1,7 @@
+H:\12.o\IT\C#\2024-10-17\listas\obj\Debug\listas.csproj.AssemblyReference.cache
+H:\12.o\IT\C#\2024-10-17\listas\obj\Debug\listas.csproj.CoreCompileInputs.cache
+H:\12.o\IT\C#\2024-10-17\listas\bin\Debug\listas.exe.config
+H:\12.o\IT\C#\2024-10-17\listas\bin\Debug\listas.exe
+H:\12.o\IT\C#\2024-10-17\listas\bin\Debug\listas.pdb
+H:\12.o\IT\C#\2024-10-17\listas\obj\Debug\listas.exe
+H:\12.o\IT\C#\2024-10-17\listas\obj\Debug\listas.pdb
