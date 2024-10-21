@@ -1,0 +1,7 @@
+H:\12.o\IT\C#\2024-01-21\nembirom\nembirom\bin\Debug\nembirom.exe.config
+H:\12.o\IT\C#\2024-01-21\nembirom\nembirom\bin\Debug\nembirom.exe
+H:\12.o\IT\C#\2024-01-21\nembirom\nembirom\bin\Debug\nembirom.pdb
+H:\12.o\IT\C#\2024-01-21\nembirom\nembirom\obj\Debug\nembirom.csproj.AssemblyReference.cache
+H:\12.o\IT\C#\2024-01-21\nembirom\nembirom\obj\Debug\nembirom.csproj.CoreCompileInputs.cache
+H:\12.o\IT\C#\2024-01-21\nembirom\nembirom\obj\Debug\nembirom.exe
+H:\12.o\IT\C#\2024-01-21\nembirom\nembirom\obj\Debug\nembirom.pdb

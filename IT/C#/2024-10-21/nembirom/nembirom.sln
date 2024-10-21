@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.35130.168
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "nembirom", "nembirom\nembirom.csproj", "{FC0FD2A2-004A-419E-A7D8-3C8493098262}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FC0FD2A2-004A-419E-A7D8-3C8493098262}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FC0FD2A2-004A-419E-A7D8-3C8493098262}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FC0FD2A2-004A-419E-A7D8-3C8493098262}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FC0FD2A2-004A-419E-A7D8-3C8493098262}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FF67816B-22A4-471E-B204-CFF6F206D409}
+	EndGlobalSection
+EndGlobal
