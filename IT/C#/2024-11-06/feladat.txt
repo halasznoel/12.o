@@ -1,0 +1,4 @@
+Olvassuk be egy város nevét.
+Mennyi az adott városhoz tartozó emberek fizetésének az összege?
+
+szóköz a határoló jel

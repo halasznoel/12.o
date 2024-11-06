@@ -1,0 +1,6 @@
+Pista Szeged 50000
+Feri Pest 40000
+Olga Szeged 60000
+Imre Pest 65000
+Samu Szeged 20000
+Pista Dóc 40000
