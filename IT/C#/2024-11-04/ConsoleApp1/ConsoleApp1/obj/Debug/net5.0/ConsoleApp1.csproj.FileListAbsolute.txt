@@ -1,0 +1,16 @@
+H:\12.o\IT\C#\2024-11-04\ConsoleApp1\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.csproj.AssemblyReference.cache
+H:\12.o\IT\C#\2024-11-04\ConsoleApp1\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+H:\12.o\IT\C#\2024-11-04\ConsoleApp1\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.AssemblyInfoInputs.cache
+H:\12.o\IT\C#\2024-11-04\ConsoleApp1\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.AssemblyInfo.cs
+H:\12.o\IT\C#\2024-11-04\ConsoleApp1\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.csproj.CoreCompileInputs.cache
+H:\12.o\IT\C#\2024-11-04\ConsoleApp1\ConsoleApp1\bin\Debug\net5.0\ConsoleApp1.exe
+H:\12.o\IT\C#\2024-11-04\ConsoleApp1\ConsoleApp1\bin\Debug\net5.0\ConsoleApp1.deps.json
+H:\12.o\IT\C#\2024-11-04\ConsoleApp1\ConsoleApp1\bin\Debug\net5.0\ConsoleApp1.runtimeconfig.json
+H:\12.o\IT\C#\2024-11-04\ConsoleApp1\ConsoleApp1\bin\Debug\net5.0\ConsoleApp1.runtimeconfig.dev.json
+H:\12.o\IT\C#\2024-11-04\ConsoleApp1\ConsoleApp1\bin\Debug\net5.0\ConsoleApp1.dll
+H:\12.o\IT\C#\2024-11-04\ConsoleApp1\ConsoleApp1\bin\Debug\net5.0\ref\ConsoleApp1.dll
+H:\12.o\IT\C#\2024-11-04\ConsoleApp1\ConsoleApp1\bin\Debug\net5.0\ConsoleApp1.pdb
+H:\12.o\IT\C#\2024-11-04\ConsoleApp1\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.dll
+H:\12.o\IT\C#\2024-11-04\ConsoleApp1\ConsoleApp1\obj\Debug\net5.0\ref\ConsoleApp1.dll
+H:\12.o\IT\C#\2024-11-04\ConsoleApp1\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.pdb
+H:\12.o\IT\C#\2024-11-04\ConsoleApp1\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.genruntimeconfig.cache
