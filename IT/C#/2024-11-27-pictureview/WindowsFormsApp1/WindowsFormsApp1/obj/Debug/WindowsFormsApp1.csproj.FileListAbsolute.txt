@@ -1,0 +1,10 @@
+M:\jam\2024\12E\infotech\2024-11-27-pictureview\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+M:\jam\2024\12E\infotech\2024-11-27-pictureview\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+M:\jam\2024\12E\infotech\2024-11-27-pictureview\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+M:\jam\2024\12E\infotech\2024-11-27-pictureview\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+M:\jam\2024\12E\infotech\2024-11-27-pictureview\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+M:\jam\2024\12E\infotech\2024-11-27-pictureview\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+M:\jam\2024\12E\infotech\2024-11-27-pictureview\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+M:\jam\2024\12E\infotech\2024-11-27-pictureview\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+M:\jam\2024\12E\infotech\2024-11-27-pictureview\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+M:\jam\2024\12E\infotech\2024-11-27-pictureview\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
