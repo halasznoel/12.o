@@ -1,0 +1,15 @@
+listbox (elozmenyek)
+button (kepvalasztodialog)
+pictureBox (kepdoboz)
+
+dialog > openFileDialog1 (kepvalasztodialog)
+
+Mindegyiknél átírni a (Name)-t
+
+duplaklikk a gombra:
+	kepvalasztodialog.ShowDialog();
+	kepdoboz.Load(kepvalasztodialog.FileName);
+	elozmenyek.Items.Add(kepvalasztodialog.FileName);
+
+duplaklikk elozmenyek:
+	kepdoboz.Load(elozmenyek.SelectedItem.ToString());
