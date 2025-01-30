@@ -1,0 +1,10 @@
+H:\12.o\IT\C#\2025-01-29\01-29\bin\Debug\01-29.exe.config
+H:\12.o\IT\C#\2025-01-29\01-29\bin\Debug\01-29.exe
+H:\12.o\IT\C#\2025-01-29\01-29\bin\Debug\01-29.pdb
+H:\12.o\IT\C#\2025-01-29\01-29\obj\Debug\01-29.csproj.AssemblyReference.cache
+H:\12.o\IT\C#\2025-01-29\01-29\obj\Debug\_01_29.Form1.resources
+H:\12.o\IT\C#\2025-01-29\01-29\obj\Debug\_01_29.Properties.Resources.resources
+H:\12.o\IT\C#\2025-01-29\01-29\obj\Debug\01-29.csproj.GenerateResource.cache
+H:\12.o\IT\C#\2025-01-29\01-29\obj\Debug\01-29.csproj.CoreCompileInputs.cache
+H:\12.o\IT\C#\2025-01-29\01-29\obj\Debug\01-29.exe
+H:\12.o\IT\C#\2025-01-29\01-29\obj\Debug\01-29.pdb

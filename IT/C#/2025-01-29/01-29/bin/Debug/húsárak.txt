@@ -1,0 +1,4 @@
+alapár:3500
+csirke:3000
+disznó:2000
+marha:5000
