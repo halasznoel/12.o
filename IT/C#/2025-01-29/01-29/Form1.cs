@@ -39,6 +39,28 @@ namespace _01_29
                     marhaprice.Text = darabok[1];
             }
         }
+        private void csirkeradio_CheckedChanged(object sender, EventArgs e)
+        {
+            if (csirkeradio.Checked)
+                végösszeg.Text = (int.Parse(csirkeprice.Text) + int.Parse(alapár.Text)).ToString();
+            else
+                végösszeg.Text = int.Parse(alapár.Text).ToString();
+        }
 
+        private void disznoradio_CheckedChanged(object sender, EventArgs e)
+        {
+            if (disznoradio.Checked)
+                végösszeg.Text = (int.Parse(disznoprice.Text) + int.Parse(alapár.Text)).ToString();
+            else
+                végösszeg.Text = int.Parse(alapár.Text).ToString();
+        }
+
+        private void marharadio_CheckedChanged(object sender, EventArgs e)
+        {
+            if (marharadio.Checked)
+                végösszeg.Text = (int.Parse(marhaprice.Text) + int.Parse(alapár.Text)).ToString();
+            else
+                végösszeg.Text = int.Parse(alapár.Text).ToString();
+        }
     }
 }

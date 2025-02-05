@@ -39,7 +39,7 @@ namespace _01_29
             this.alapár = new System.Windows.Forms.TextBox();
             this.label1 = new System.Windows.Forms.Label();
             this.label2 = new System.Windows.Forms.Label();
-            this.textBox5 = new System.Windows.Forms.TextBox();
+            this.végösszeg = new System.Windows.Forms.TextBox();
             this.groupBox1.SuspendLayout();
             this.SuspendLayout();
             // 
@@ -87,9 +87,9 @@ namespace _01_29
             this.marharadio.Name = "marharadio";
             this.marharadio.Size = new System.Drawing.Size(55, 17);
             this.marharadio.TabIndex = 3;
-            this.marharadio.TabStop = true;
             this.marharadio.Text = "Marha";
             this.marharadio.UseVisualStyleBackColor = true;
+            this.marharadio.CheckedChanged += new System.EventHandler(this.marharadio_CheckedChanged);
             // 
             // disznoradio
             // 
@@ -98,9 +98,9 @@ namespace _01_29
             this.disznoradio.Name = "disznoradio";
             this.disznoradio.Size = new System.Drawing.Size(57, 17);
             this.disznoradio.TabIndex = 2;
-            this.disznoradio.TabStop = true;
             this.disznoradio.Text = "Disznó";
             this.disznoradio.UseVisualStyleBackColor = true;
+            this.disznoradio.CheckedChanged += new System.EventHandler(this.disznoradio_CheckedChanged);
             // 
             // csirkeradio
             // 
@@ -109,9 +109,9 @@ namespace _01_29
             this.csirkeradio.Name = "csirkeradio";
             this.csirkeradio.Size = new System.Drawing.Size(54, 17);
             this.csirkeradio.TabIndex = 1;
-            this.csirkeradio.TabStop = true;
             this.csirkeradio.Text = "Csirke";
             this.csirkeradio.UseVisualStyleBackColor = true;
+            this.csirkeradio.CheckedChanged += new System.EventHandler(this.csirkeradio_CheckedChanged);
             // 
             // alapár
             // 
@@ -138,12 +138,12 @@ namespace _01_29
             this.label2.TabIndex = 4;
             this.label2.Text = "Végösszeg";
             // 
-            // textBox5
+            // végösszeg
             // 
-            this.textBox5.Location = new System.Drawing.Point(390, 326);
-            this.textBox5.Name = "textBox5";
-            this.textBox5.Size = new System.Drawing.Size(100, 20);
-            this.textBox5.TabIndex = 3;
+            this.végösszeg.Location = new System.Drawing.Point(390, 326);
+            this.végösszeg.Name = "végösszeg";
+            this.végösszeg.Size = new System.Drawing.Size(100, 20);
+            this.végösszeg.TabIndex = 3;
             // 
             // Form1
             // 
@@ -151,7 +151,7 @@ namespace _01_29
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(799, 450);
             this.Controls.Add(this.label2);
-            this.Controls.Add(this.textBox5);
+            this.Controls.Add(this.végösszeg);
             this.Controls.Add(this.label1);
             this.Controls.Add(this.alapár);
             this.Controls.Add(this.groupBox1);
@@ -177,7 +177,7 @@ namespace _01_29
         private System.Windows.Forms.TextBox alapár;
         private System.Windows.Forms.Label label1;
         private System.Windows.Forms.Label label2;
-        private System.Windows.Forms.TextBox textBox5;
+        private System.Windows.Forms.TextBox végösszeg;
     }
 }
 
