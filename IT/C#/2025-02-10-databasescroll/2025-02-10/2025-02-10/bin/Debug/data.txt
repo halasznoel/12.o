@@ -1,0 +1,4 @@
+Kiss István;Szeged;500000
+Nagy Viktor;Budapest;230000
+Muhari Béla;Dóc;650000
+Paracsi Ugor;Baks;500000
