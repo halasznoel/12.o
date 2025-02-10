@@ -1,0 +1,10 @@
+H:\12.o\IT\C#\2025-02-06-haromszoges\haromszoges\bin\Debug\haromszoges.exe.config
+H:\12.o\IT\C#\2025-02-06-haromszoges\haromszoges\bin\Debug\haromszoges.exe
+H:\12.o\IT\C#\2025-02-06-haromszoges\haromszoges\bin\Debug\haromszoges.pdb
+H:\12.o\IT\C#\2025-02-06-haromszoges\haromszoges\obj\Debug\haromszoges.csproj.AssemblyReference.cache
+H:\12.o\IT\C#\2025-02-06-haromszoges\haromszoges\obj\Debug\haromszoges.Form1.resources
+H:\12.o\IT\C#\2025-02-06-haromszoges\haromszoges\obj\Debug\haromszoges.Properties.Resources.resources
+H:\12.o\IT\C#\2025-02-06-haromszoges\haromszoges\obj\Debug\haromszoges.csproj.GenerateResource.cache
+H:\12.o\IT\C#\2025-02-06-haromszoges\haromszoges\obj\Debug\haromszoges.csproj.CoreCompileInputs.cache
+H:\12.o\IT\C#\2025-02-06-haromszoges\haromszoges\obj\Debug\haromszoges.exe
+H:\12.o\IT\C#\2025-02-06-haromszoges\haromszoges\obj\Debug\haromszoges.pdb
