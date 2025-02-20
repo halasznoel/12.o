@@ -1,0 +1,2 @@
+Két listbox. Az egyikbe a megyék (egyszer csak) kerüljenek.
+Másik listboxba a városok (a kiválasztott megyéhez tartozók) kerüljenek.
