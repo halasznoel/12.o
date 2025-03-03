@@ -1,0 +1,10 @@
+H:\12.o\IT\C#\2025-02-13\orai\bin\Debug\orai.exe.config
+H:\12.o\IT\C#\2025-02-13\orai\bin\Debug\orai.exe
+H:\12.o\IT\C#\2025-02-13\orai\bin\Debug\orai.pdb
+H:\12.o\IT\C#\2025-02-13\orai\obj\Debug\orai.csproj.AssemblyReference.cache
+H:\12.o\IT\C#\2025-02-13\orai\obj\Debug\orai.Form1.resources
+H:\12.o\IT\C#\2025-02-13\orai\obj\Debug\orai.Properties.Resources.resources
+H:\12.o\IT\C#\2025-02-13\orai\obj\Debug\orai.csproj.GenerateResource.cache
+H:\12.o\IT\C#\2025-02-13\orai\obj\Debug\orai.csproj.CoreCompileInputs.cache
+H:\12.o\IT\C#\2025-02-13\orai\obj\Debug\orai.exe
+H:\12.o\IT\C#\2025-02-13\orai\obj\Debug\orai.pdb

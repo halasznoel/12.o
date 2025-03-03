@@ -1,0 +1,37 @@
+Egy listboxban jelenítse meg a file sorait, amelyek háromszögek és téglalalapok oldalhosszait tartalmazzák.
+
+Ha rákattintunk egyre, akkor egy másik listboxban jelenjenek meg az alábbi információk.
+
+
+Téglalap
+T:400 K:100
+
+vagy:
+
+Négyzet
+T:16 K:16
+
+vagy:
+
+Egyenlő szárú háromszög
+T:x K:y
+
+vagy:
+
+Szabályos háromszög
+T:x K:y
+
+vagy:
+
+Háromszög
+T:x K:y
+
+
+
+Legyen egy beviteli mező alul, amibe ha beleírok valamit, akkor egy gombra kattintás után írja a file végéhez.
+
+A háromszög területét lehet Hérón képletével számolni.
+
+
+
+
