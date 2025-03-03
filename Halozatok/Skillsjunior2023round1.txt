@@ -1,0 +1,20 @@
+Statek2023+
+
+192.168.16.0/26 -> 255.255.255.192
+
+
+ena
+conf t
+hostname WORKSHOP-SW
+ip domain-name portgdansk.pl
+banner motd "Polak, Wegier, dwa bratanki"
+username admin privilege 15 secret Statek2023+
+crypto key generate rsa
+2048
+ip ssh version 2
+line vty 0 15
+transport input ssh
+login local
+
+ip access-list standard NAT
+permit 192.168.16.0 0.0.0.63
