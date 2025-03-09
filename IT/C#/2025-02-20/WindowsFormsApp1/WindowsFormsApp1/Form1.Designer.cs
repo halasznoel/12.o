@@ -29,56 +29,58 @@ namespace WindowsFormsApp1
         /// </summary>
         private void InitializeComponent()
         {
-            this.bal = new System.Windows.Forms.ListBox();
-            this.jobb = new System.Windows.Forms.ListBox();
-            this.label1 = new System.Windows.Forms.Label();
-            this.label2 = new System.Windows.Forms.Label();
+            this.megyék = new System.Windows.Forms.ListBox();
+            this.városok = new System.Windows.Forms.ListBox();
+            this.sdf = new System.Windows.Forms.Label();
+            this.asdffd = new System.Windows.Forms.Label();
             this.SuspendLayout();
             // 
-            // bal
+            // megyék
             // 
-            this.bal.FormattingEnabled = true;
-            this.bal.Location = new System.Drawing.Point(23, 46);
-            this.bal.Name = "bal";
-            this.bal.Size = new System.Drawing.Size(180, 316);
-            this.bal.TabIndex = 0;
-            this.bal.SelectedIndexChanged += new System.EventHandler(this.bal_SelectedIndexChanged);
+            this.megyék.FormattingEnabled = true;
+            this.megyék.Location = new System.Drawing.Point(56, 50);
+            this.megyék.Name = "megyék";
+            this.megyék.Size = new System.Drawing.Size(176, 342);
+            this.megyék.TabIndex = 0;
+            this.megyék.SelectedIndexChanged += new System.EventHandler(this.megyék_SelectedIndexChanged);
             // 
-            // jobb
+            // városok
             // 
-            this.jobb.FormattingEnabled = true;
-            this.jobb.Location = new System.Drawing.Point(261, 46);
-            this.jobb.Name = "jobb";
-            this.jobb.Size = new System.Drawing.Size(180, 316);
-            this.jobb.TabIndex = 1;
-            this.jobb.SelectedIndexChanged += new System.EventHandler(this.jobb_SelectedIndexChanged);
+            this.városok.FormattingEnabled = true;
+            this.városok.Location = new System.Drawing.Point(339, 50);
+            this.városok.Name = "városok";
+            this.városok.Size = new System.Drawing.Size(208, 342);
+            this.városok.TabIndex = 1;
             // 
-            // label1
+            // sdf
             // 
-            this.label1.AutoSize = true;
-            this.label1.Location = new System.Drawing.Point(90, 30);
-            this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(45, 13);
-            this.label1.TabIndex = 2;
-            this.label1.Text = "Megyék";
+            this.sdf.AutoSize = true;
+            this.sdf.Location = new System.Drawing.Point(53, 23);
+            this.sdf.Name = "sdf";
+            this.sdf.Size = new System.Drawing.Size(45, 13);
+            this.sdf.TabIndex = 2;
+            this.sdf.Text = "Megyék";
             // 
-            // label2
+            // asdffd
             // 
-            this.label2.AutoSize = true;
-            this.label2.Location = new System.Drawing.Point(330, 30);
-            this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(46, 13);
-            this.label2.TabIndex = 3;
-            this.label2.Text = "Városok";
+            this.asdffd.AutoSize = true;
+            this.asdffd.Location = new System.Drawing.Point(336, 23);
+            this.asdffd.Name = "asdffd";
+            this.asdffd.Size = new System.Drawing.Size(46, 13);
+            this.asdffd.TabIndex = 3;
+            this.asdffd.Text = "Városok";
             // 
             // Form1
             // 
-            this.ClientSize = new System.Drawing.Size(478, 425);
-            this.Controls.Add(this.label2);
-            this.Controls.Add(this.label1);
-            this.Controls.Add(this.jobb);
-            this.Controls.Add(this.bal);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
+            this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
+            this.ClientSize = new System.Drawing.Size(800, 450);
+            this.Controls.Add(this.asdffd);
+            this.Controls.Add(this.sdf);
+            this.Controls.Add(this.városok);
+            this.Controls.Add(this.megyék);
             this.Name = "Form1";
+            this.Text = "Form1";
             this.Load += new System.EventHandler(this.Form1_Load);
             this.ResumeLayout(false);
             this.PerformLayout();
@@ -87,12 +89,10 @@ namespace WindowsFormsApp1
 
         #endregion
 
-        private System.Windows.Forms.ListBox listBox1;
-        private System.Windows.Forms.ListBox listBox2;
-        private System.Windows.Forms.ListBox bal;
-        private System.Windows.Forms.ListBox jobb;
-        private System.Windows.Forms.Label label1;
-        private System.Windows.Forms.Label label2;
+        private System.Windows.Forms.ListBox megyék;
+        private System.Windows.Forms.ListBox városok;
+        private System.Windows.Forms.Label sdf;
+        private System.Windows.Forms.Label asdffd;
     }
 }
 

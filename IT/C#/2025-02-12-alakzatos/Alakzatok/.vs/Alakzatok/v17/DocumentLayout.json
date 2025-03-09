@@ -7,7 +7,7 @@
       "RelativeMoniker": "D:0:0:{A4B9EA4D-C2B6-4DB3-BFEA-EEB8D91082FC}|Alakzatok\\Alakzatok.csproj|solutionrelative:alakzatok\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A4B9EA4D-C2B6-4DB3-BFEA-EEB8D91082FC}|Alakzatok\\Alakzatok.csproj|c:\\suli\\12.o\\it\\c#\\2025-02-12-alakzatos\\alakzatok\\alakzatok\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{A4B9EA4D-C2B6-4DB3-BFEA-EEB8D91082FC}|Alakzatok\\Alakzatok.csproj|C:\\Suli\\12.o\\IT\\C#\\2025-02-12-alakzatos\\Alakzatok\\alakzatok\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{A4B9EA4D-C2B6-4DB3-BFEA-EEB8D91082FC}|Alakzatok\\Alakzatok.csproj|solutionrelative:alakzatok\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
@@ -28,7 +28,7 @@
               "RelativeDocumentMoniker": "Alakzatok\\Form1.cs",
               "ToolTip": "C:\\Suli\\12.o\\IT\\C#\\2025-02-12-alakzatos\\Alakzatok\\Alakzatok\\Form1.cs",
               "RelativeToolTip": "Alakzatok\\Form1.cs",
-              "ViewState": "AgIAAAQAAAAAAAAAAAAUwCcAAAAYAAAAAAAAAA==",
+              "ViewState": "AgIAABsAAAAAAAAAAAAowDYAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-18T20:30:49.249Z",
               "EditorCaption": ""
@@ -42,8 +42,7 @@
               "ToolTip": "C:\\Suli\\12.o\\IT\\C#\\2025-02-12-alakzatos\\Alakzatok\\Alakzatok\\Form1.cs [Design]",
               "RelativeToolTip": "Alakzatok\\Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-18T20:30:12.042Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2025-02-18T20:30:12.042Z"
             }
           ]
         }

@@ -8,3 +8,13 @@ H:\12.o\IT\C#\2025-02-10-databasescroll\2025-02-10\2025-02-10\obj\Debug\2025-02-
 H:\12.o\IT\C#\2025-02-10-databasescroll\2025-02-10\2025-02-10\obj\Debug\2025-02-10.csproj.CoreCompileInputs.cache
 H:\12.o\IT\C#\2025-02-10-databasescroll\2025-02-10\2025-02-10\obj\Debug\2025-02-10.exe
 H:\12.o\IT\C#\2025-02-10-databasescroll\2025-02-10\2025-02-10\obj\Debug\2025-02-10.pdb
+C:\Suli\12.o\IT\C#\2025-02-10-databasescroll\2025-02-10\2025-02-10\bin\Debug\2025-02-10.exe.config
+C:\Suli\12.o\IT\C#\2025-02-10-databasescroll\2025-02-10\2025-02-10\bin\Debug\2025-02-10.exe
+C:\Suli\12.o\IT\C#\2025-02-10-databasescroll\2025-02-10\2025-02-10\bin\Debug\2025-02-10.pdb
+C:\Suli\12.o\IT\C#\2025-02-10-databasescroll\2025-02-10\2025-02-10\obj\Debug\2025-02-10.csproj.AssemblyReference.cache
+C:\Suli\12.o\IT\C#\2025-02-10-databasescroll\2025-02-10\2025-02-10\obj\Debug\_2025_02_10.Form1.resources
+C:\Suli\12.o\IT\C#\2025-02-10-databasescroll\2025-02-10\2025-02-10\obj\Debug\_2025_02_10.Properties.Resources.resources
+C:\Suli\12.o\IT\C#\2025-02-10-databasescroll\2025-02-10\2025-02-10\obj\Debug\2025-02-10.csproj.GenerateResource.cache
+C:\Suli\12.o\IT\C#\2025-02-10-databasescroll\2025-02-10\2025-02-10\obj\Debug\2025-02-10.csproj.CoreCompileInputs.cache
+C:\Suli\12.o\IT\C#\2025-02-10-databasescroll\2025-02-10\2025-02-10\obj\Debug\2025-02-10.exe
+C:\Suli\12.o\IT\C#\2025-02-10-databasescroll\2025-02-10\2025-02-10\obj\Debug\2025-02-10.pdb

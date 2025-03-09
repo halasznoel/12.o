@@ -13,41 +13,36 @@ namespace WindowsFormsApp1
 {
     public partial class Form1 : Form
     {
-        string[] megyeváros = File.ReadAllLines("varosmegye.txt", Encoding.UTF8);
+        string[] megyeváros;
         public Form1()
         {
             InitializeComponent();
         }
+
         private void Form1_Load(object sender, EventArgs e)
         {
+            megyeváros = File.ReadAllLines("varosmegye.txt", Encoding.UTF8);
+
             foreach (var item in megyeváros)
             {
                 string[] darabok = item.Split();
-                if (!bal.Items.Contains(darabok[1]))
-                {
-                    bal.Items.Add(darabok[1]);
+                if ( !megyék.Items.Contains(darabok[1])){
+                    megyék.Items.Add(darabok[1]);
                 }
             }
         }
-
-        private void bal_SelectedIndexChanged(object sender, EventArgs e)
+        private void megyék_SelectedIndexChanged(object sender, EventArgs e)
         {
-            jobb.Items.Clear();
-            string megye = bal.SelectedItem.ToString();
+            városok.Items.Clear();
+            string megye = megyék.SelectedItem.ToString();
             foreach (var item in megyeváros)
             {
                 string[] darabok = item.Split();
                 if (darabok[1] == megye)
                 {
-                    jobb.Items.Add(darabok[0]);
+                    városok.Items.Add(darabok[0]);
                 }
             }
-
-        }
-
-        private void jobb_SelectedIndexChanged(object sender, EventArgs e)
-        {
-
         }
     }
 }
