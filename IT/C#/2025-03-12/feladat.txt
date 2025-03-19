@@ -1,0 +1,3 @@
+Az adatok.dat fájlt kell feldolgozni. szám szóköz szöveg a felépítése.
+Készítsen űrlapot. Az űrlapon legyen egy lista, egy szövegdoboz és egy gomb.
+Ha a szövegdobozba beírunk egy számot és rákattintunk a gombra, akkor a listába tegye bele azokat a szövegeket, amelyek sorában a megadott szám található. (Egymás alatt jelenjenek meg a listában a file sorai. Némelyiknél értelmes mondat jön ki.)
