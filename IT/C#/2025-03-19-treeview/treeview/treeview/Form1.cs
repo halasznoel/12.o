@@ -51,6 +51,10 @@ namespace treeview
             tv.Nodes[1].Nodes[1].Nodes.Add("liba");
             tv.Nodes[1].Nodes[1].Nodes[1].Nodes.Add("okos liba");
             tv.Nodes[1].Nodes[1].Nodes[1].Nodes.Add("buta liba");
+
+            TreeNode[] tns = tv.Nodes.Find("tyúk",true);
+            tns[0].Nodes.Add("Kendermagos");
+            tns[0].Nodes.Add("Tollas tyúk");
         }
 
         private void button2_Click(object sender, EventArgs e)
