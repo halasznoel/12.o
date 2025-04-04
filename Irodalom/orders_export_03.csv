@@ -1,0 +1,153 @@
+Name,Email,Financial Status,Paid at,Fulfillment Status,Fulfilled at,Accepts Marketing,Currency,Subtotal,Shipping,Taxes,Total,Discount Code,Discount Amount,Shipping Method,Created at,Lineitem quantity,Lineitem name,Lineitem price,Lineitem compare at price,Lineitem sku,Lineitem requires shipping,Lineitem taxable,Lineitem fulfillment status,Billing Name,Billing Street,Billing Address1,Billing Address2,Billing Company,Billing City,Billing Zip,Billing Province,Billing Country,Billing Phone,Shipping Name,Shipping Street,Shipping Address1,Shipping Address2,Shipping Company,Shipping City,Shipping Zip,Shipping Province,Shipping Country,Shipping Phone,Notes,Note Attributes,Cancelled at,Payment Method,Payment Reference,Refunded Amount,Vendor,Outstanding Balance,Employee,Location,Device ID,Id,Tags,Risk Level,Source,Lineitem discount,Tax 1 Name,Tax 1 Value,Tax 2 Name,Tax 2 Value,Tax 3 Name,Tax 3 Value,Tax 4 Name,Tax 4 Value,Tax 5 Name,Tax 5 Value,Phone,Receipt Number,Duties,Billing Province Name,Shipping Province Name,Payment ID,Payment Terms Name,Next Payment Due At,Payment References
+#1193,hsandorm@gmail.com,pending,,fulfilled,2025-03-07 11:55:28 +0100,no,HUF,8990.00,1560.00,0.00,10550.00,"",0.00,GLS Házhozszállítás,2025-03-06 21:44:05 +0100,1,Csipike,8990.00,,HAL-002,true,true,fulfilled,305650909 -,"Ház, Felsővámház Utca 45",Ház,Felsővámház Utca 45,,Pécs,'7626,,HU,+36305650909,305650909 -,"Ház, Felsővámház Utca 45",Ház,Felsővámház Utca 45,,Pécs,'7626,,HU,+36305650909,,"Country code: HU
+Teljes név: 305650909
+Email: hsandorm@gmail.com
+Telefonszám: 36305650909
+Irányítószám: 7626
+Város: Pécs
+Utca, házszám: Ház
+Megjegyzés: Felsővámház Utca 45
+IP address: 176.63.13.124",,Cash on Delivery (COD),"",0.00,Mancsmámor,10550.00,,,,9946353533258,releasit_cod_form,Low,5690175,0.00,,,,,,,,,,,+36305650909,,,,,#1193.1,,,#1193.1
+#1194,majeriknoemi040227@gmail.com,pending,,fulfilled,2025-03-07 11:40:17 +0100,no,HUF,8990.00,1560.00,0.00,10550.00,"",0.00,GLS Házhozszállítás,2025-03-07 07:18:09 +0100,1,Csipike,8990.00,,HAL-002,true,true,fulfilled,Nagy Noémi,"Szent Mihály Tér 5/5, 5",Szent Mihály Tér 5/5,5,,Csákvár,'8083,,HU,+3606305899494,Nagy Noémi,"Szent Mihály Tér 5/5, 5",Szent Mihály Tér 5/5,5,,Csákvár,'8083,,HU,+3606305899494,,"Country code: HU
+Teljes név: Nagy Noémi
+Email: majeriknoemi040227@gmail.com
+Telefonszám: 06305899494
+Irányítószám: 8083
+Város: Csákvár
+Utca, házszám: Szent Mihály Tér 5/5
+Megjegyzés: 5
+IP address: 84.1.169.246",,Cash on Delivery (COD),"",0.00,Mancsmámor,10550.00,,,,9946850787658,releasit_cod_form,Low,5690175,0.00,,,,,,,,,,,+36305899494,,,,,#1194.1,,,#1194.1
+#1195,szines1108@freemail.hu,pending,,fulfilled,2025-03-07 11:40:02 +0100,no,HUF,15283.00,1560.00,0.00,16843.00,QUANTITY DISCOUNT,2697.00,GLS Házhozszállítás,2025-03-07 08:01:25 +0100,2,Csipike,8990.00,,HAL-002,true,true,fulfilled,Szakál Balázs,Búzavirág utca 7/3,Búzavirág utca 7/3,,,Ercsi,'2451,,HU,+3606306390159,Szakál Balázs,Búzavirág utca 7/3,Búzavirág utca 7/3,,,Ercsi,'2451,,HU,+3606306390159,,"Country code: HU
+Teljes név: Szakál Balázs
+Email: szines1108@freemail.hu
+Telefonszám: 06306390159
+Irányítószám: 2451
+Város: Ercsi
+Utca, házszám: Búzavirág utca 7/3
+IP address: 37.76.17.102",,Cash on Delivery (COD),"",0.00,Mancsmámor,16843.00,,,,9946885357898,releasit_cod_form,Low,5690175,0.00,,,,,,,,,,,+36306390159,,,,,#1195.1,,,#1195.1
+#1196,horanyibeatrix89@gmail.com,pending,,fulfilled,2025-03-10 08:36:30 +0100,no,HUF,8990.00,1560.00,0.00,10550.00,"",0.00,GLS házhozszállítás,2025-03-07 11:57:45 +0100,1,Csipike,8990.00,18000.00,HAL-002,true,true,fulfilled,Anikó Horányiné,Semmelweis utca 1,Semmelweis utca 1,,,Siófok,'8600,,HU,06703797619,Anikó Horányiné,Semmelweis utca 1,Semmelweis utca 1,,,Siófok,'8600,,HU,06703797619,,"",,Cash on Delivery (COD),"",0.00,Mancsmámor,10550.00,,,,9947162640714,"",Low,web,0.00,,,,,,,,,,,,,,,,rjQBNAduaFmrF9SRstADxgpmW,,,rjQBNAduaFmrF9SRstADxgpmW
+#1197,kerekgyartoreka2017@gmail.com,pending,,fulfilled,2025-03-10 09:11:01 +0100,no,HUF,15283.00,1560.00,0.00,16843.00,QUANTITY DISCOUNT,2697.00,GLS Házhozszállítás,2025-03-07 12:33:56 +0100,2,Csipike,8990.00,,HAL-002,true,true,fulfilled,Kerékgyártó Réka,Hősök tere 1. 1/2,Hősök tere 1. 1/2,,,Komárom,'2921,,HU,+3606704279748,Kerékgyártó Réka,Hősök tere 1. 1/2,Hősök tere 1. 1/2,,,Komárom,'2921,,HU,+3606704279748,,"Country code: HU
+Teljes név: Kerékgyártó Réka
+Email: kerekgyartoreka2017@gmail.com
+Telefonszám: 06704279748
+Irányítószám: 2921
+Város: Komárom
+Utca, házszám: Hősök tere 1. 1/2
+IP address: 84.206.66.10",,Cash on Delivery (COD),"",0.00,Mancsmámor,16843.00,,,,9947208286538,releasit_cod_form,Low,5690175,0.00,,,,,,,,,,,+36704279748,,,,,#1197.1,,,#1197.1
+#1198,papaiakos6@gmail.com,pending,,unfulfilled,,no,HUF,8990.00,1560.00,0.00,10550.00,"",0.00,GLS Házhozszállítás,2025-03-07 15:53:25 +0100,1,Csipike,8990.00,,HAL-002,true,true,pending,Pápai Ákos,"35, Általában délután vagyok otthon",35,Általában délután vagyok otthon,,Cibakháza,'5462,,HU,+3606302326945,Pápai Ákos,"35, Általában délután vagyok otthon",35,Általában délután vagyok otthon,,Cibakháza,'5462,,HU,+3606302326945,,"Country code: HU
+Teljes név: Pápai Ákos
+Email: papaiakos6@gmail.com
+Telefonszám: 06302326945
+Irányítószám: 5462
+Város: Cibakháza
+Utca, házszám: 35
+Megjegyzés: Általában délután vagyok otthon
+IP address: 37.76.39.242",,Cash on Delivery (COD),"",0.00,Mancsmámor,10550.00,,,,9947469316426,releasit_cod_form,Low,5690175,0.00,,,,,,,,,,,+36302326945,,,,,#1198.1,,,#1198.1
+#1199,lilla.kokenyesi@gmail.com,pending,,fulfilled,2025-03-10 09:10:51 +0100,no,HUF,8990.00,1560.00,0.00,10550.00,"",0.00,GLS Házhozszállítás,2025-03-07 20:15:33 +0100,1,Csipike,8990.00,,HAL-002,true,true,fulfilled,Kökényesi Lilla,Régi Tokaji út 6,Régi Tokaji út 6,,,"Hajdúdorog, Hajdú-bihar",'4087,,HU,+3606703265377,Kökényesi Lilla,Régi Tokaji út 6,Régi Tokaji út 6,,,"Hajdúdorog, Hajdú-bihar",'4087,,HU,+3606703265377,,"Country code: HU
+Teljes név: Kökényesi Lilla
+Email: lilla.kokenyesi@gmail.com
+Telefonszám: 06703265377
+Irányítószám: 4087
+Város: Hajdúdorog, Hajdú-bihar
+Utca, házszám: Régi Tokaji út 6
+IP address: 109.61.1.160",,Cash on Delivery (COD),"",0.00,Mancsmámor,10550.00,,,,9947819016522,releasit_cod_form,Low,5690175,0.00,,,,,,,,,,,+36703265377,,,,,#1199.1,,,#1199.1
+#1201,smabacus@gmail.com,pending,,fulfilled,2025-03-10 08:36:31 +0100,no,HUF,8990.00,1560.00,0.00,10550.00,"",0.00,GLS házhozszállítás,2025-03-08 06:36:20 +0100,1,Csipike,8990.00,18000.00,HAL-002,true,true,fulfilled,Mária Máthé,Hársfa utca 10,Hársfa utca 10,,,Százhalombatta,'2440,,HU,06209550070,Mária Máthé,Hársfa utca 10,Hársfa utca 10,,,Százhalombatta,'2440,,HU,06209550070,,"",,Cash on Delivery (COD),"",0.00,Mancsmámor,10550.00,,,,9948217868618,"",Low,web,0.00,,,,,,,,,,,,,,,,rWRkcZ6afiuhiqcO7FgJ6E35h,,,rWRkcZ6afiuhiqcO7FgJ6E35h
+#1202,csokedaniel1995@gmail.com,pending,,fulfilled,2025-03-10 09:10:46 +0100,no,HUF,8091.00,1560.00,0.00,9651.00,RECOVERY DISCOUNT,899.00,GLS Házhozszállítás,2025-03-08 09:36:11 +0100,1,Csipike,8990.00,,HAL-002,true,true,fulfilled,Csőke Dániel,Újszász utca 70.1/5,Újszász utca 70.1/5,,,Budapest,'1165,,HU,+3606306197767,Csőke Dániel,Újszász utca 70.1/5,Újszász utca 70.1/5,,,Budapest,'1165,,HU,+3606306197767,,"Country code: HU
+Teljes név: Csőke Dániel
+Email: csokedaniel1995@gmail.com
+Telefonszám: 06306197767
+Irányítószám: 1165
+Város: Budapest
+Utca, házszám: Újszász utca 70.1/5
+IP address: 93.92.60.251",,Cash on Delivery (COD),"",0.00,Mancsmámor,9651.00,,,,9948364407114,releasit_cod_form,Low,5690175,0.00,,,,,,,,,,,+36306197767,,,,,#1202.1,,,#1202.1
+#1203,szaboe0918@gmail.com,pending,,fulfilled,2025-03-10 09:10:43 +0100,no,HUF,8990.00,1560.00,0.00,10550.00,"",0.00,GLS Házhozszállítás,2025-03-08 11:01:32 +0100,1,Csipike,8990.00,,HAL-002,true,true,fulfilled,Szabó Erzsébet,Kishegyesi út 50/6/43,Kishegyesi út 50/6/43,,,Debrecen,'4031,,HU,+3606202232288,Szabó Erzsébet,Kishegyesi út 50/6/43,Kishegyesi út 50/6/43,,,Debrecen,'4031,,HU,+3606202232288,,"Country code: HU
+Teljes név: Szabó Erzsébet
+Email: szaboe0918@gmail.com
+Telefonszám: 06202232288
+Irányítószám: 4031
+Város: Debrecen
+Utca, házszám: Kishegyesi út 50/6/43
+IP address: 178.164.231.110",,Cash on Delivery (COD),"",0.00,Mancsmámor,10550.00,,,,9948474245450,releasit_cod_form,Low,5690175,0.00,,,,,,,,,,,+36202232288,,,,,#1203.1,,,#1203.1
+#1204,petermarillion@gmail.com,pending,,fulfilled,2025-03-10 08:36:32 +0100,no,HUF,8990.00,1560.00,0.00,10550.00,"",0.00,GLS házhozszállítás,2025-03-08 11:38:04 +0100,1,Csipike,8990.00,18000.00,HAL-002,true,true,fulfilled,Péter Bűdi,Dózsa György u 3 PUSKÁS ARÉNA V. kapu,Dózsa György u 3 PUSKÁS ARÉNA V. kapu,,,Budapest (1146),'1146,,HU,+36305056633,Péter Bűdi,Dózsa György u 3 PUSKÁS ARÉNA V. kapu,Dózsa György u 3 PUSKÁS ARÉNA V. kapu,,,Budapest (1146),'1146,,HU,+36305056633,,"",,Cash on Delivery (COD),"",0.00,Mancsmámor,10550.00,,,,9948525920586,"",Low,web,0.00,,,,,,,,,,,,,,,,rgmKw0sQu7Sff1bHWLZw27iOX,,,rgmKw0sQu7Sff1bHWLZw27iOX
+#1205,szuszigyuri@gmail.com,pending,,fulfilled,2025-03-10 08:36:33 +0100,no,HUF,8990.00,1560.00,0.00,10550.00,"",0.00,GLS házhozszállítás,2025-03-08 12:23:34 +0100,1,Csipike,8990.00,18000.00,HAL-002,true,true,fulfilled,Györgyné Szondi,"Szentendrei út 34/8 85, 8 85",Szentendrei út 34/8 85,8 85,,Budapest,'1033,,HU,06702920427,Györgyné Szondi,"Szentendrei út 34/8 85, 8 85",Szentendrei út 34/8 85,8 85,,Budapest,'1033,,HU,06702920427,,"",,Cash on Delivery (COD),"",0.00,Mancsmámor,10550.00,,,,9948588605770,"",Low,web,0.00,,,,,,,,,,,,,,,,r9tfNuNGdwgaFDRy1aH9QAfmS,,,r9tfNuNGdwgaFDRy1aH9QAfmS
+#1206,vigh_andika@hotmail.com,pending,,fulfilled,2025-03-10 08:36:34 +0100,no,HUF,15283.00,1560.00,0.00,16843.00,QUANTITY DISCOUNT,2697.00,GLS Házhozszállítás,2025-03-08 13:57:35 +0100,2,Csipike,8990.00,,HAL-002,true,true,fulfilled,06703966090 -,Széchenyi 13,Széchenyi 13,,,Mindszent,'6630,,HU,+36703966090,06703966090 -,Széchenyi 13,Széchenyi 13,,,Mindszent,'6630,,HU,+36703966090,,"Country code: HU
+Teljes név: 06703966090
+Email: vigh_andika@hotmail.com
+Telefonszám: 703966090
+Irányítószám: 6630
+Város: Mindszent
+Utca, házszám: Széchenyi 13
+IP address: 94.44.124.175",,Cash on Delivery (COD),"",0.00,Mancsmámor,16843.00,,,,9948715712842,releasit_cod_form,Low,5690175,0.00,,,,,,,,,,,+36703966090,,,,,#1206.1,,,#1206.1
+#1207,zatrokedit@gmail.com,pending,,fulfilled,2025-03-10 09:10:38 +0100,no,HUF,8990.00,1560.00,0.00,10550.00,"",0.00,GLS Házhozszállítás,2025-03-08 19:21:12 +0100,1,Csipike,8990.00,,HAL-002,true,true,fulfilled,Királyné Zatrok Edit,"Cukorgyári út 7/5, 7/5",Cukorgyári út 7/5,7/5,,Lőrinci,'3024,,HU,+3606205431557,Királyné Zatrok Edit,"Cukorgyári út 7/5, 7/5",Cukorgyári út 7/5,7/5,,Lőrinci,'3024,,HU,+3606205431557,,"Country code: HU
+Teljes név: Királyné Zatrok Edit
+Email: zatrokedit@gmail.com
+Telefonszám: 06205431557
+Irányítószám: 3024
+Város: Lőrinci
+Utca, házszám: Cukorgyári út 7/5
+Megjegyzés: 7/5
+IP address: 84.2.249.63",,Cash on Delivery (COD),"",0.00,Mancsmámor,10550.00,,,,9949121053002,releasit_cod_form,Low,5690175,0.00,,,,,,,,,,,+36205431557,,,,,#1207.1,,,#1207.1
+#1208,doreszti@gmail.com,pending,,fulfilled,2025-03-10 09:10:34 +0100,no,HUF,8091.00,1560.00,0.00,9651.00,RECOVERY DISCOUNT,899.00,GLS Házhozszállítás,2025-03-08 19:38:38 +0100,1,Csipike,8990.00,,HAL-002,true,true,fulfilled,Biczó Dorina,Kossuth Lajos utca 1,Kossuth Lajos utca 1,,,Dunavarsány,'2336,,HU,+3606208511646,Biczó Dorina,Kossuth Lajos utca 1,Kossuth Lajos utca 1,,,Dunavarsány,'2336,,HU,+3606208511646,,"Country code: HU
+Teljes név: Biczó Dorina
+Email: doreszti@gmail.com
+Telefonszám: 06208511646
+Irányítószám: 2336
+Város: Dunavarsány
+Utca, házszám: Kossuth Lajos utca 1
+IP address: 31.46.253.61",,Cash on Delivery (COD),"",0.00,Mancsmámor,9651.00,,,,9949140418890,releasit_cod_form,Low,5690175,0.00,,,,,,,,,,,+36208511646,,,,,#1208.1,,,#1208.1
+#1209,orazsu53@gmail.com,pending,,fulfilled,2025-03-10 08:36:34 +0100,no,HUF,8990.00,1560.00,0.00,10550.00,"",0.00,GLS házhozszállítás,2025-03-08 20:34:27 +0100,1,Csipike,8990.00,18000.00,HAL-002,true,true,fulfilled,Zsuzsa Oravecz,"Hárs út 8, 8",Hárs út 8,8,,Mátranovák,'3144,,HU,703244279,Zsuzsa Oravecz,"Hárs út 8, 8",Hárs út 8,8,,Mátranovák,'3144,,HU,703244279,,"",,Cash on Delivery (COD),"",0.00,Mancsmámor,10550.00,,,,9949204152650,"",Low,web,0.00,,,,,,,,,,,,,,,,r3FT4ujj2jIzkinidenchACLZ,,,r3FT4ujj2jIzkinidenchACLZ
+#1210,Pahilaci@gmail.com,pending,,fulfilled,2025-03-10 08:36:35 +0100,no,HUF,8091.00,1560.00,0.00,9651.00,RECOVERY DISCOUNT,899.00,GLS Házhozszállítás,2025-03-09 07:43:36 +0100,1,Csipike,8990.00,,HAL-002,true,true,fulfilled,Páhi László,Arany János köz 16./1,Arany János köz 16./1,,,Kaposvár,'7400,,HU,+36302530836,Páhi László,Arany János köz 16./1,Arany János köz 16./1,,,Kaposvár,'7400,,HU,+36302530836,,"Country code: HU
+Teljes név: Páhi László
+Email: Pahilaci@gmail.com
+Telefonszám: 302530836
+Irányítószám: 7400
+Város: Kaposvár
+Utca, házszám: Arany János köz 16./1
+IP address: 37.76.36.244",,Cash on Delivery (COD),"",0.00,Mancsmámor,9651.00,,,,9949590847818,releasit_cod_form,Low,5690175,0.00,,,,,,,,,,,+36302530836,,,,,#1210.1,,,#1210.1
+#1211,csepanyizoltanne68@gmail.com,pending,,fulfilled,2025-03-10 09:10:27 +0100,no,HUF,8990.00,1560.00,0.00,10550.00,"",0.00,GLS Házhozszállítás,2025-03-09 08:12:57 +0100,1,Csipike,8990.00,,HAL-002,true,true,fulfilled,Csépányi Zoltánné,"Vasvár út 54, Best 100ft-os boltba behozni.",Vasvár út 54,Best 100ft-os boltba behozni.,,Ózd,'3600,,HU,+3606205818296,Csépányi Zoltánné,"Vasvár út 54, Best 100ft-os boltba behozni.",Vasvár út 54,Best 100ft-os boltba behozni.,,Ózd,'3600,,HU,+3606205818296,,"Country code: HU
+Teljes név: Csépányi Zoltánné
+Email: csepanyizoltanne68@gmail.com
+Telefonszám: 06205818296
+Irányítószám: 3600
+Város: Ózd
+Utca, házszám: Vasvár út 54
+Megjegyzés: Best 100ft-os boltba behozni.
+IP address: 89.134.7.153",,Cash on Delivery (COD),"",0.00,Mancsmámor,10550.00,,,,9949610574154,releasit_cod_form,Low,5690175,0.00,,,,,,,,,,,+36205818296,,,,,#1211.1,,,#1211.1
+#1212,zsokamama4@citromail.hu,pending,,fulfilled,2025-03-10 08:36:36 +0100,no,HUF,8990.00,1560.00,0.00,10550.00,"",0.00,GLS házhozszállítás,2025-03-09 11:13:54 +0100,1,Csipike,8990.00,18000.00,HAL-002,true,true,fulfilled,Jánosné Pap,"Almásy, 27    3-as ajtó, 27    3-as ajtó","Almásy, 27    3-as ajtó",27    3-as ajtó,,Törökszentmiklós,'5200,,HU,+36204913478,Jánosné Pap,"Almásy, 27    3-as ajtó, 27    3-as ajtó","Almásy, 27    3-as ajtó",27    3-as ajtó,,Törökszentmiklós,'5200,,HU,+36204913478,,"",,Cash on Delivery (COD),"",0.00,Mancsmámor,10550.00,,,,9949813506378,"",Low,web,0.00,,,,,,,,,,,,,,,,r49mfbpkYaHNzc96yEji1DAwo,,,r49mfbpkYaHNzc96yEji1DAwo
+#1213,gabriella.takacs62@gmail.com,pending,,fulfilled,2025-03-10 08:36:36 +0100,no,HUF,8990.00,1560.00,0.00,10550.00,"",0.00,GLS Házhozszállítás,2025-03-09 14:16:02 +0100,1,Csipike,8990.00,,HAL-002,true,true,fulfilled,Takács Gabriella,Pesti út 55,Pesti út 55,,,Győr,'9027,,HU,+36202264320,Takács Gabriella,Pesti út 55,Pesti út 55,,,Győr,'9027,,HU,+36202264320,,"Country code: HU
+Teljes név: Takács Gabriella
+Email: gabriella.takacs62@gmail.com
+Telefonszám: 202264320
+Irányítószám: 9027
+Város: Győr
+Utca, házszám: Pesti út 55
+IP address: 79.121.41.168",,Cash on Delivery (COD),"",0.00,Mancsmámor,10550.00,,,,9950064279882,releasit_cod_form,Low,5690175,0.00,,,,,,,,,,,+36202264320,,,,,#1213.1,,,#1213.1
+#1214,czerenekati@gmail.hu,pending,,unfulfilled,,no,HUF,9580.00,1560.00,0.00,11140.00,"",0.00,GLS Házhozszállítás,2025-03-09 15:38:45 +0100,1,Csipike,8990.00,,HAL-002,true,true,pending,Czere Béláné,"Tisza Kálmán Utca 13 Tisza Kálmán U 13, Tisza kálmán u 13",Tisza Kálmán Utca 13 Tisza Kálmán U 13,Tisza kálmán u 13,,Pápa,'8500,,HU,+3606202923762,Czere Béláné,"Tisza Kálmán Utca 13 Tisza Kálmán U 13, Tisza kálmán u 13",Tisza Kálmán Utca 13 Tisza Kálmán U 13,Tisza kálmán u 13,,Pápa,'8500,,HU,+3606202923762,,"Country code: HU
+Teljes név: Czere Béláné
+Email: czerenekati@gmail.hu
+Telefonszám: 06202923762
+Irányítószám: 8500
+Város: Pápa
+Utca, házszám: Tisza Kálmán Utca 13 Tisza Kálmán U 13
+Megjegyzés: Tisza kálmán u 13
+IP address: 91.82.33.128",,Cash on Delivery (COD),"",0.00,Mancsmámor,11140.00,,,,9950173692234,releasit_cod_form,Low,5690175,0.00,,,,,,,,,,,+36202923762,,,,,#1214.1,,,#1214.1
+#1214,czerenekati@gmail.hu,,,,,,,,,,,,,,2025-03-09 15:38:45 +0100,1,SZÁLLÍTÁS VÉDELEM - 590Ft,590.00,"","",true,true,pending,,,,,,,,,,,,,,,,,,,,,,,,,,,"",,,,,,,,,0.00,,,,,,,,,,,+36202923762,,,,,,,,
+#1215,molnareva1955@gmail.com,pending,,unfulfilled,,no,HUF,9580.00,1560.00,0.00,11140.00,"",0.00,GLS Házhozszállítás,2025-03-09 15:50:23 +0100,1,Csipike,8990.00,,HAL-002,true,true,pending,Molnár Éva,Jászai Mari utca 1/clepcsohaz fsz2,Jászai Mari utca 1/clepcsohaz fsz2,,,Szombathely,'9700,,HU,+36202890509,Molnár Éva,Jászai Mari utca 1/clepcsohaz fsz2,Jászai Mari utca 1/clepcsohaz fsz2,,,Szombathely,'9700,,HU,+36202890509,,"Country code: HU
+Teljes név: Molnár Éva
+Email: molnareva1955@gmail.com
+Telefonszám: 202890509
+Irányítószám: 9700
+Város: Szombathely
+Utca, házszám: Jászai Mari utca 1/clepcsohaz fsz2
+IP address: 31.46.245.94",,Cash on Delivery (COD),"",0.00,Mancsmámor,11140.00,,,,9950189584714,releasit_cod_form,Low,5690175,0.00,,,,,,,,,,,+36202890509,,,,,#1215.1,,,#1215.1
+#1215,molnareva1955@gmail.com,,,,,,,,,,,,,,2025-03-09 15:50:23 +0100,1,SZÁLLÍTÁS VÉDELEM - 590Ft,590.00,"","",true,true,pending,,,,,,,,,,,,,,,,,,,,,,,,,,,"",,,,,,,,,0.00,,,,,,,,,,,+36202890509,,,,,,,,
+#1216,kosztrihaneva@gmail.com,pending,,fulfilled,2025-03-10 08:43:45 +0100,no,HUF,8990.00,1560.00,0.00,10550.00,"",0.00,GLS Házhozszállítás,2025-03-09 17:48:02 +0100,1,Csipike,8990.00,,HAL-002,true,true,fulfilled,'+36305969115 -,"Rákóczi út 23, 23",Rákóczi út 23,23,,Salgótarján,'3100,,HU,+3606305969115,'+36305969115 -,"Rákóczi út 23, 23",Rákóczi út 23,23,,Salgótarján,'3100,,HU,+3606305969115,,"Country code: HU
+Teljes név: +36305969115
+Email: kosztrihaneva@gmail.com
+Telefonszám: 06305969115
+Irányítószám: 3100
+Város: Salgótarján
+Utca, házszám: Rákóczi út 23
+Megjegyzés: 23
+IP address: 176.63.30.246",,Cash on Delivery (COD),"",0.00,Mancsmámor,10550.00,,,,9950352048458,releasit_cod_form,Low,5690175,0.00,,,,,,,,,,,+36305969115,,,,,#1216.1,,,#1216.1
+#1217,nikibig17@freemail.hu,pending,,unfulfilled,,no,HUF,8990.00,1560.00,0.00,10550.00,"",0.00,GLS házhozszállítás,2025-03-10 06:27:46 +0100,1,Csipike,8990.00,18000.00,HAL-002,true,true,pending,Sándorné Nagy,Vasút utca 34.,Vasút utca 34.,,,Jászboldogháza,'5144,,HU,06206257495,Sándorné Nagy,Vasút utca 34.,Vasút utca 34.,,,Jászboldogháza,'5144,,HU,06206257495,,"",,Cash on Delivery (COD),"",0.00,Mancsmámor,10550.00,,,,9951003050314,"",Low,web,0.00,,,,,,,,,,,,,,,,rGDFZW6JlabanML2tFPYnr3he,,,rGDFZW6JlabanML2tFPYnr3he
