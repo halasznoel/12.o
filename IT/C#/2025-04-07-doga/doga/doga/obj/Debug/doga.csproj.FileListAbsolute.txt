@@ -1,0 +1,10 @@
+H:\12.o\IT\C#\2025-04-07-doga\doga\doga\bin\Debug\doga.exe.config
+H:\12.o\IT\C#\2025-04-07-doga\doga\doga\bin\Debug\doga.exe
+H:\12.o\IT\C#\2025-04-07-doga\doga\doga\bin\Debug\doga.pdb
+H:\12.o\IT\C#\2025-04-07-doga\doga\doga\obj\Debug\doga.csproj.AssemblyReference.cache
+H:\12.o\IT\C#\2025-04-07-doga\doga\doga\obj\Debug\doga.Form1.resources
+H:\12.o\IT\C#\2025-04-07-doga\doga\doga\obj\Debug\doga.Properties.Resources.resources
+H:\12.o\IT\C#\2025-04-07-doga\doga\doga\obj\Debug\doga.csproj.GenerateResource.cache
+H:\12.o\IT\C#\2025-04-07-doga\doga\doga\obj\Debug\doga.csproj.CoreCompileInputs.cache
+H:\12.o\IT\C#\2025-04-07-doga\doga\doga\obj\Debug\doga.exe
+H:\12.o\IT\C#\2025-04-07-doga\doga\doga\obj\Debug\doga.pdb

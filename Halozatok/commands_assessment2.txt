@@ -3,6 +3,7 @@ Sw-A
 ena
 conf t
 
+vlan 10
 name users
 vlan 999
 name unused
